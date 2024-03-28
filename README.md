@@ -27,5 +27,4 @@
 
 
 
-
-![snake gif](https://github.com/lubna0501/lubna0501/blob/output/github-contribution-grid-snake.gif)
+ 
