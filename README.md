@@ -4,7 +4,7 @@
 <h3 align="center">A passionate developer from India</h3><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lubna0501&label=Profile%20views&color=0e75b6&style=flat" alt="lubna0501" /> </p>
-<img align="right" src= "https://github.com/lubna0501/lubna0501/assets/96900284/25855f0c-1b4f-4caf-8ffe-eec5149a70be" alt="Banner" height="300" width="500">
+<img align="right" src= "https://github.com/lubna0501/lubna0501/assets/96900284/25855f0c-1b4f-4caf-8ffe-eec5149a70be" alt="Banner" height="300" width="400">
 - 🌱 I’m currently learning **Artifical intelligence | Machine Learning | flutter |dart**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lubna0501](https://github.com/lubna0501)
