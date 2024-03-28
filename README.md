@@ -24,3 +24,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lubna0501&show_icons=true&locale=en" alt="lubna0501" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lubna0501&" alt="lubna0501" /></p>
+
+
+
+
+![snake gif](https://github.com/lubna0501/lubna0501/blob/output/github-contribution-grid-snake.gif)
